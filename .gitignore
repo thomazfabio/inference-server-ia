@@ -1,0 +1,6 @@
+#ignora a venv
+venv/
+#ignora cache do python
+__pycache__/
+
+tutoriais/
